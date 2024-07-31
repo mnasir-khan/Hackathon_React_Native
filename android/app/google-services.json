@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61235654766",
+    "project_id": "react_native_hackathon",
+    "storage_bucket": "react_native_hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68044761235:android:b472c104476547661235f7f",
+        "android_client_info": {
+          "package_name": "react_native_hackathon"
+        }
+      },
+      "auth_client": [],
+      "api_key": [
+        {
+          "current_key": "IzaSyDn8f10zTqzqUeRfr3SclsvSogFvMdrlzca"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_auth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
